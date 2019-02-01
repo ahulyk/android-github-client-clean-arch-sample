@@ -11,13 +11,6 @@ apply {
     plugin("kotlin-android-extensions")
 }
 
-afterEvaluate {
-    tasks.withType(KotlinCompile::class)
-            .forEach {
-                it.kotlinOptions { freeCompilerArgs + "-Xnew-inference" }
-            }
-}
-
 kapt {
     useBuildCache = true
     mapDiagnosticLocations = true

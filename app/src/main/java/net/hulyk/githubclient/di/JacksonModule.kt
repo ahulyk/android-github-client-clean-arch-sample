@@ -1,4 +1,4 @@
-package com.toastme.di
+package net.hulyk.githubclient.di
 
 import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.databind.ObjectMapper

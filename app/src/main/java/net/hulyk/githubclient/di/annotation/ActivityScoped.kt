@@ -1,4 +1,4 @@
-package com.toastme.di.annotation
+package net.hulyk.githubclient.di.annotation
 
 import javax.inject.Scope
 import kotlin.annotation.AnnotationRetention.RUNTIME

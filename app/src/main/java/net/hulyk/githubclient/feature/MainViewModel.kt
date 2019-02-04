@@ -3,9 +3,9 @@ package net.hulyk.githubclient.feature
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import kotlinx.coroutines.launch
-import net.hulyk.githubclient.domain.GetAllReposUseCase
-import net.hulyk.githubclient.domain.GetEvenIdReposUseCase
-import net.hulyk.githubclient.domain.base.Result
+import net.hulyk.githubclient.domain.usecase.GetAllReposUseCase
+import net.hulyk.githubclient.domain.usecase.GetEvenIdReposUseCase
+import net.hulyk.githubclient.domain.Result
 import net.hulyk.githubclient.viewmodel.BaseViewModel
 import javax.inject.Inject
 

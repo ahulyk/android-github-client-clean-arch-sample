@@ -1,6 +1,6 @@
 package net.hulyk.githubclient.di
 
-import com.toastme.di.annotation.ActivityScoped
+import net.hulyk.githubclient.di.annotation.ActivityScoped
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 import net.hulyk.githubclient.feature.MainActivity

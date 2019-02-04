@@ -1,4 +1,4 @@
-package com.toastme.di
+package net.hulyk.githubclient.di
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory

@@ -1,4 +1,6 @@
-package net.hulyk.githubclient.domain.base
+package net.hulyk.githubclient.domain.usecase
+
+import net.hulyk.githubclient.domain.Result
 
 abstract class BaseUseCase<P, R> {
 

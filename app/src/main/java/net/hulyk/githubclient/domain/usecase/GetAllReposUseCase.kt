@@ -1,8 +1,6 @@
-package net.hulyk.githubclient.domain
+package net.hulyk.githubclient.domain.usecase
 
-import net.hulyk.githubclient.domain.base.BaseUseCase
-import net.hulyk.githubclient.domain.base.Result
-import net.hulyk.githubclient.domain.base.apiCallToResult
+import net.hulyk.githubclient.domain.Result
 import net.hulyk.githubclient.repository.RepoRepository
 import net.hulyk.githubclient.service.model.RepoDto
 import javax.inject.Inject

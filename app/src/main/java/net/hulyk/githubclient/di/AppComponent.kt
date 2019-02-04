@@ -1,7 +1,5 @@
 package net.hulyk.githubclient.di
 
-import com.toastme.di.JacksonModule
-import com.toastme.di.NetModule
 import dagger.Component
 import dagger.android.AndroidInjector
 import dagger.android.support.AndroidSupportInjectionModule

@@ -1,4 +1,4 @@
-package net.hulyk.githubclient.domain.base
+package net.hulyk.githubclient.domain
 
 /**
  * A generic class that holds a value with its loading status.
